@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelLo1"/><img  height="200" src="https://github-readme-stats.vercel.app/api?username=SamuelLo1&show_icons=true&rank_icon=github"/>
+
+
+
 <!--
 **SamuelLo1/SamuelLo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
