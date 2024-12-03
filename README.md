@@ -1,9 +1,9 @@
 ## Hi there 👋 
 - 🔭 I’m currently working on: learning 3JS to render dynamic 3D scenes in javascript web applications
 - 🌱 I’m currently learning: I am building Full Stack Web applications with friends and studying computer science + electrical engineering 
-- 👯 I’m looking to collaborate on: fun software/hardware projects to learn how to scale a product
+- 👯 I’m looking to collaborate on: fun software/hardware projects to learn how to scale products
 - 📫 How to reach me: samuello300@gmail.com || https://www.linkedin.com/in/samuel-lo-228572252/
-- ⚡ Fun fact: My favorite youtube channel is Outdoor Boys
+- ⚡ Fun fact: My favorite Youtube channel is Outdoor Boys
 
 
 
