@@ -39,6 +39,7 @@ Skills:
      - Libraries:
        - Axios
        - Express
+       - Flask
 
 
 
