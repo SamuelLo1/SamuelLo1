@@ -17,7 +17,7 @@ Skills:
      - Tools:
        - Figma
      - Libraries:
-        - framer-motion
+        - FramerMotion
         - Three-JS
           
  - Backend:
