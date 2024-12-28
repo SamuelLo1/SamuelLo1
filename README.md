@@ -1,45 +1,19 @@
 ## Hi there 👋 
 - 🔭 I’m currently working on: learning 3JS to render dynamic 3D scenes in javascript web applications
-- 🌱 I’m currently learning: Full Stack Web application development and studying computer science
+- 🌱 I’m currently learning: Augmented Reality and Machine Learning w/ neural networks
 - 👯 I’m looking to collaborate on: fun software/hardware projects to learn how to scale products
 - 📫 How to reach me: samuello300@gmail.com || https://www.linkedin.com/in/samuel-lo-228572252/
 - ⚡ Fun fact: My favorite Youtube channel is Outdoor Boys
 
-Skills: 
- - FrontEnd: 
-     - Frameworks:
-       - React
-     - Languages:
-       - Javascript
-       - Typescript
-       - HTML
-       - CSS, Tailwind
-     - Tools:
-       - Figma
-     - Libraries:
-        - FramerMotion
-        - Three-JS
-          
- - Backend:
-     - Frameworks:
-       - NextJS
-     - Languages:
-       - Python
-       - C++
-       - Javascript
-       - Typescript
-       - Java
-     - Databases:
-       - PostgreSQL
-       - SQL
-       - MongoDB
-       - Supabase
-     - Tools:
-       - Postman 
-     - Libraries:
-       - Axios
-       - Express
-       - Flask
+## My Skills: 
+### Frontend:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,threejs,html,css,tailwind,figma)](https://skillicons.dev)
+### Backend: 
+[![My Skills](https://skillicons.dev/icons?i=cpp,python,java,bash,nextjs,docker,mongodb,supabase,postgresql,prisma,fastapi,flask,nodejs)](https://skillicons.dev)
+### Misc: 
+[![My Skills](https://skillicons.dev/icons?i=jest,pytorch,git,)](https://skillicons.dev)
+
+
 
 
 
